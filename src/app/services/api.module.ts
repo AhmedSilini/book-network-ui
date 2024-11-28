@@ -21,8 +21,7 @@ import { AuthenticationService } from './services/authentication.service';
     FeedbackService,
     BookService,
     AuthenticationService,
-    ApiConfiguration,
-    HttpClient
+    ApiConfiguration
   ],
 })
 export class ApiModule {
